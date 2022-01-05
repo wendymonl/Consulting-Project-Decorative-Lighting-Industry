@@ -18,13 +18,16 @@ WakaNINE distributes lighting fixtures from four suppliers— ANGO, David Truebr
 Property developers contract architecture and design firms to make plans for a building. Architecture firms must design for safety, compliance to regulations, energy efficiency, and environmental credentials of the entire building. WakaNINE is targeting all levels of architects. 
 In the interior design field, wakaNINE is targeting all levels of interior designers, and lighting designers, and acoustic designers, when it comes to their HUSH line. Interior designers are involved with all aspects of designing an interior space, including lighting and acoustics. Lighting designers are professionals who focus specifically on the natural light and lighting systems controls of a building. 
 
+![Specification Decision-Makers](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/1e7e91e71027aa2e3166c1147bdcbb695e1bdc10/specification%20stakeholders%20needs%20graphic.png)
+These design professionals are the target population for our survey.
+
 ## The Ask
 
 The elements that will make for a successful response to the ask include developing a quantifiable and easily implemented strategy for increasing influence in the specification process.  
 
 ## Data Collection
 
-We distributed a survey composed of 18 questions, including free response, rating, and multiple choice questions. We recieved 106 responses in 4 days. As a team, we conducted a total of 9 Zoom interviews with professionals in the design industry with the goal of gaining context on the specification process before analyzing our survey data. The data that we collected from our interviews was unstructured qualitative data in the form of interview transcripts. With most of the primary data we collected being qualitative, 
+We distributed a survey composed of 18 questions, including free response, rating, and multiple choice questions. We recieved 106 responses in 4 days. As a team, we conducted a total of 9 Zoom interviews with professionals in the design industry with the goal of gaining context on the specification process before analyzing our survey data. With most of the primary data we collected being qualitative, we will need robust systems to analyze it for recommendations
 
 ## Prepare and Process Data
 
@@ -50,9 +53,15 @@ Interior designers were the most represented in our survey sample, making up ove
 ### Pivot table charts
 
 ### Most Important Attributes for Selecting A Lighting Feature
+![Importance of Each Attribute](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/8b9be138b80b6e562119a206e4e1021b8eb5a6d6/clustered%20column%20graphs-%20ratings%20of%20attributes.png)
+From the plot above we can tell that 
+- **Client Requests** and **Production/Ship** times were rated as the **most important attributes** 
+- **Having specified fixtures on prior projects** and **Product Company's Mission** are were rated as less important overall
+
+I made a diverging stacked bar chart in Excel to vizualize the attributes from most to least important
 ![Plot of Attributes](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/981e78f010d44881a8a645825c20e881a5ca44c2/Plot%20of%20Ranking%20Counts%20with%20legend%202.jpg)
 
-We can see that the most important attribute is Client, while the least important attribute is Company mission...
+Now, the vizualization shows more clearly the rankings of the attributes. 
 
 ### Which Assets are used in the various Design Stages
 
@@ -60,10 +69,19 @@ We can see that the most important attribute is Client, while the least importan
 chi sq goodnnesss of fit can bring in statistics
 
 ## Formulate Recommendations
-
-- provide technical files
+As this was a team project, I will only include recommendations that I wrote independently.  
+- provide technical files. 46 out of the 104 responses to "What could lighting manufacturers improve to make your role in specifying fixtures easier?" mentioned one or more of the following categories
+  1. Electrical Details
+  3. Installation Information
+  4. Files for Design Software
+ 
 - make website searchable
 
+- target Property Developers directly
+
 ## Present Findings and Recommendations
+
+Our team presented to John Cook, CEO of WakaNINE, over Zoom. Below is the link to our slide deck on Canva. 
+![Final Presentation Slides] https://www.canva.com/design/DAEcyhbapHI/Lg2MQVS7oFezn0rUrqRqHw/view?utm_content=DAEcyhbapHI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 
 ## Next Steps
