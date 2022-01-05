@@ -80,13 +80,20 @@ I made a diverging stacked bar chart in Excel to vizualize the attributes from m
 ### Which Assets are used in the various Design Stages?
 ![Assets Used through the process](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/0db3535033bdff51ff327e768fd9fcb4d36c144f/Assets%20used%20through%20different%20phases.png)
 
+- The most used assets throughout the whole process are the specification sheet and budget pricing
+- The Presentation phase of the specificiation process is when designers meet with their clients to approve plans including the lighting selection. In the presentation phase, the most used assets are Finish/Material and Brochure/Catalog
+- CAD File, IES File, and Line Drawings are all files that can be imported into 3D-modelling software. I learned from interviews with designers that experienced designers don't need to use these to choose decorative lighting fixtures, but junior designers might use them. That could explain why they are the least used assets throughout the specification process.
 
 ### 4.3 Formulate Recommendations based on findings
 - **Provide technical information early on in the specification process**. After seperating the responses to the free response question"What could lighting manufacturers improve to make your role in specifying fixtures easier?" by deliminating commas, 46 out of the 106 responses wanted more technical details early on in the specification process.  The three main categories of technical details that designers requested in response to this question are:
   1. Electrical Details including LED drivers, color temperature options, driver compatibility, lumen output 
   3. Installation Information including mounting details, bulbs required for each fixture, and finish options
   4. Files for Design Software including IES files, Building information models, and Revit files
-  This information should be easily available online for quick access to designers. The website could require designers to register their email to access these files. That way wakaNINE could get more designers signed up to their newsletter.
+  5.
+  This information should be easily available online for quick access to designers. The website could require designers to register their email to access these files. That way wakaNINE could get more designers signed up to their newsletter. 
+  
+ **Limitations of this recommendation**: 
+   The information that lighting specifiers seek is not always easy for decorative lighting manufacturers to provide. For example, providing IES files for all the different variations of their fixtures would be difficult since even changing the paint finish would affect the photometric output. To produce these files, a company has to run photometric tests of every variation of their fixtures themselves or hire an independent lab. 
   
 - **Make website searchable by technical specifications** like driver type, lumen output, color temperature, and mounting details. In interviews, designers reported that they search for decorative lighting that will fit their existing plans, so helping them easily find lighting that matches their specific needs will make easier and faster for them to put wakaNINE's products on the specification sheet.
 
