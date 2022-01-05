@@ -1,4 +1,4 @@
-# Consulting-Project-Decorative-Lighting-Industry
+# Consulting-Class-Project-Decorative-Lighting-Industry
 
 ## Introduction
 This is a consulting project I did for class credit, where I implemented the 6 steps of the data analysis process to make business recommendations. This was a team project where I collaborated with 5 classmates, and this respository is meant to document part of the project.
