@@ -97,7 +97,7 @@ I made a diverging stacked bar chart in Excel to vizualize the attributes from m
 Our team presented the project deliverables to John Cook, CEO of WakaNINE, over Zoom. The short presentation included a summary of our teams methodology, analysis, and recommmendations for wakaNINE. Please note that in this repository I only included work that I produced independently. Feel free to take a look at our teams slides for further details on this project. 
 [Final Presentation Slides](https://www.canva.com/design/DAEcyhbapHI/Lg2MQVS7oFezn0rUrqRqHw/view?utm_content=DAEcyhbapHI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
-## 7. Act- Next Steps
+## 7. Act: Next Steps
 - With the help of our primary data collection, analysis, and recommendations, wakaNINE can make data-driven decisions for increasing success throughout the Specification Process. 
 - The creation of some of the technical files requested by designers is expensive, so feassibility of providing these files is up to the financial team to decide.
 - Third-party datasets can be combined with the primary data collected over the course of this project to strategically implement a data-driven approach to marketing wakaNINEs products. For example, using publicly available decorative lighting sales data to make predictions on future trends in the market.
