@@ -44,7 +44,7 @@ The survey responses were a spreadsheet with 106 rows.
 ## Analyze
 
 ### Survey Sample Representation
-![Survey Sample Representation](https://user-images.githubusercontent.com/47668478/148148812-7227f1af-c468-4508-8cc6-1739853520ec.png)
+![Survey Sample Representation](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/65ac5d8269de885fcea83437b3ede9bec03700d1/survey%20representation.png)
 How did they find company?
 
 ### Most Important Attributes for Selecting A Lighting Feature
