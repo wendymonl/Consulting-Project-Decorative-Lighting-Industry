@@ -89,7 +89,7 @@ I made a diverging stacked bar chart in Excel to vizualize the attributes from m
   1. Electrical Details including LED drivers, color temperature options, driver compatibility, lumen output 
   3. Installation Information including mounting details, bulbs required for each fixture, and finish options
   4. Files for Design Software including IES files, Building information models, and Revit files
-  5.
+
   This information should be easily available online for quick access to designers. The website could require designers to register their email to access these files. That way wakaNINE could get more designers signed up to their newsletter. 
   
  **Limitations of this recommendation**: 
