@@ -30,19 +30,28 @@ We distributed a survey composed of 18 questions, including free response, ratin
 
 ## 3. Process
  
- - First, I imported the Google Sheet into Excel, which was my tool of choice for this small dataset.
-- Created a Pivot table to get counts for "Have you Specified a wakaNINE product in the past?"
-- made a copy of the 'Form Responses' sheet (where all survey responses are organized in rows by name of participant and columns are each survey question) to work with while keeping the original 
+- First, I imported the Google Sheet into Excel, which was my tool of choice for this small dataset.
+- made a copy of the survey response sheet (where all survey responses are organized in rows by name of participant and columns are each survey question) to work with and  backing up the original 
+- checked for spelling errors and corrected spelling mistakes
+
+## 3.1 Using a Pivot Table to Count Responses to "Have you Specified a wakaNINE product in the past?"
+- Created a Pivot table to get counts for designers who had worked with wakaNINE before
+![image](https://user-images.githubusercontent.com/47668478/148243818-9e6da7e0-0830-4292-ae00-9cee12bb66c3.png)
+
+## 3.2 Using COUNTIF to calculate how many respondents worked in different design roles
+
 - added a column named "Role Category" and manually classified the self-reported "firm and role category" into 8 role classifications - Architect, Senior Architect, Interior Designer, Lighting Designer, Senior Interior Designer, Senior Lighting Designer, Sales, and Other
-  - these role classifications serve to help us investigate any patterns in the different decision-making roles in the specification process
-- counted number of respondents in each role category with the COUNTIF formula
-  -For example, to count the number of Architects, the following sytax was used: =countif('Form Responses-Copy'!F:F,"Architect") 
-- split responses to "What could lighting manufacturers improve to make your role in specifying fixtures easier?" using the Data tab in Excel 
-- copied columns containg responses to "When selecting a lighting fixture for a new project, please rank the following attributes from most to least important in making your decision from 1 to 5. (5 being the most important attribute)" into a new sheet called 'Most Important Attributes'
+- calculated frequency of respondents in each role category with the COUNTIF formula
+  - For example, to count the number of Architects, the following sytax was used: =countif('Form Responses-Copy'!F:F,"Architect") 
+
+## 3.3 Delimiting  by Commas and Creating a new Sheet for non-multiple choice answers
+- split responses to "What could lighting manufacturers improve to make your role in specifying fixtures easier?" using the Data tab in Excel to deliminate by comma
+- trimmed column headers of brackets and unnecessary text 
+- Added a new sheet called 'Most Important Attributes' and copied columns containing responses to question "When selecting a lighting fixture for a new project, please rank the following attributes from most to least important in making your decision from 1 to 5. (5 being the most important attribute)" 
 - created table of counts of respondents ratings of each 5 attributes using COUNTIF. The rows were the 5 attributes and the columns were 5 ranking categores.
   - Ex: COUNTIF('Full Most Important Attributes'!$C:$C, 1)					
 
-#### Below is the table that contains the rankings for each attribute and the sums in the column
+#### The Table Below contains the rankings for each attribute and sums to verify that there are no errors
 
 ![Attributes Table](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/981e78f010d44881a8a645825c20e881a5ca44c2/Table%20of%20Ranking%20Counts.jpg)
 ## 4. Analyze
@@ -50,7 +59,7 @@ We distributed a survey composed of 18 questions, including free response, ratin
 ### 4.1 Report on Survey Sample Representation
 ![Survey Sample Representation](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/65ac5d8269de885fcea83437b3ede9bec03700d1/survey%20representation.png)
 Our survey results are not a random sample of the population of interest because they were all volunteers for this survey. Interior designers were the most represented in our survey sample, making up over half of our responses. The next most represented roles were lighting designers, making up about 15% of our responses. Architects and sales people made up 11% and 6% of our responses respectively. The “Other” category  includes project managers, property developers, marketing specialists, controls engineers, and electrical engineers. Another 6% of the respondents did not specify their role in the specification process, though some of them stated that they were principals in their firm (but did not specify the name of their firm)
-  Most of the survey respondents had not specified a wakaNINE product before, so we know the survey sample could be potential new relationships for wakaNINE.  
+  Most of the survey respondents had not specified a wakaNINE product before, so we know the survey sample has many potential new relationships for wakaNINE.  
 ![Survey Sample Representation](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/0db3535033bdff51ff327e768fd9fcb4d36c144f/Have%20you%20specified%20a%20wakaNINE%20product%20in%20the%20past.png.jpg)
 
 ### 4.2 Decision-Making in the Specification Process
@@ -71,9 +80,7 @@ I made a diverging stacked bar chart in Excel to vizualize the attributes from m
 
 
 ### 4.3 Formulate Recommendations based on findings
-- **Provide technical information early on in the specification process**. 46 out of the 104 responses to the free response question "What could lighting manufacturers improve to make your role in specifying fixtures easier?" mentioned wanting more technical details early on. 
-
-The three main categories of technical details that designers requested are:
+- **Provide technical information early on in the specification process**. After seperating the responses to the free response question"What could lighting manufacturers improve to make your role in specifying fixtures easier?" by deliminating commas, 46 out of the 106 responses wanted more technical details early on in the specification process.  The three main categories of technical details that designers requested in response to this question are:
   1. Electrical Details including LED drivers, color temperature options, driver compatibility, lumen output 
   3. Installation Information including mounting details, bulbs required for each fixture, and finish options
   4. Files for Design Software including IES files, Building information models, and Revit files
