@@ -24,7 +24,7 @@ The elements that will make for a successful response to the ask include develop
 
 ## Data Collection
 
-We distributed a survey that would take around 15-minutes to complete, and recieved 106 responses in 4 days.  
+We distributed a survey composed of 18 questions, including free response, rating, and multiple choice questions. We recieved 106 responses in 4 days. As a team, we conducted a total of 9 Zoom interviews with professionals in the design industry with the goal of gaining context on the specification process before analyzing our survey data. The data that we collected from our interviews was unstructured qualitative data in the form of interview transcripts. With most of the primary data we collected being qualitative, 
 
 ## Prepare and Process Data
 
@@ -40,21 +40,29 @@ The survey responses were a spreadsheet with 106 rows.
 - COUNTIF('Full Most Important Attributes'!$C:$C, 1)					
 
 
-
+![Attributes Table](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/981e78f010d44881a8a645825c20e881a5ca44c2/Table%20of%20Ranking%20Counts.jpg)
 ## Analyze
 
 ### Survey Sample Representation
 ![Survey Sample Representation](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/65ac5d8269de885fcea83437b3ede9bec03700d1/survey%20representation.png)
-How did they find company?
+Interior designers were the most represented in our survey sample, making up over half of our responses. The next most represented roles were lighting designers, making up about 15% of our responses. Architects and sales people made up 11% and 6% of our responses respectively. The “Other” category  includes project managers, property developers, marketing specialists, controls engineers, and electrical engineers. Another 6% of the respondents did not specify their role in the specification process, though some of them stated that they were principals in their firm (but did not specify the name of their firm)
+
+### Pivot table charts
 
 ### Most Important Attributes for Selecting A Lighting Feature
+![Plot of Attributes](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/981e78f010d44881a8a645825c20e881a5ca44c2/Plot%20of%20Ranking%20Counts%20with%20legend%202.jpg)
+
+We can see that the most important attribute is Client, while the least important attribute is Company mission...
+
+### Which Assets are used in the various Design Stages
 
 ### Find patterns among different roles
-
+chi sq goodnnesss of fit can bring in statistics
 
 ## Formulate Recommendations
 
-
+- provide technical files
+- make website searchable
 
 ## Present Findings and Recommendations
 
