@@ -5,9 +5,8 @@ This is a consulting project I did for class credit, where I implemented the 6 s
 
 ### Stakeholders
 
-#### wakaNINE's marketing team
-CEO John Cook
-Marketing Team
+-CEO of wakaNINE John Cook  
+-wakaNINE Marketing Team
 
 
 ## 1. The Ask
