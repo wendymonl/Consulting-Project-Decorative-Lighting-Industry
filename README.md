@@ -1,16 +1,15 @@
 # Consulting-Class-Project-Decorative-Lighting-Industry
 ##Summary
 
-- Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in lighting design projects. This included:
+- Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in commercial building projects. Methods were:
    - A survey to gather measurable data
    - expert interviews to understand context behind data
 - Used Excel to analyze over 100 survey responses to understand stakeholders’ needs throughout the specification process
 -	Presented research findings and actionable recommendations on increasing influence in the decorative lighting market to CEO
 
 ## Introduction
-This is a consulting project I did for class credit, where I implemented the 6 steps of the data analysis process to make business recommendations. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my part of the project.
-
-  WakaNINE is a decorative lighting company based in Austin, TX and they tasked us with conducting primary market research to understand the lighting specification process. This project will ultimately help wakaNINE develop marketing strategies based on current trends in the way decorative lighting fixtures are selected for commercial buildings. 
+WakaNINE is a decorative lighting company based in Austin, TX and they tasked us with conducting primary market research to understand the specification process. The specification process is the steps design firms take to develop concepts, document, analyze and explain decision-making to ensure that the needs and performance requirements of the client are met.
+This is a consulting project I did for class credit, where I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, but this respository is meant to document only my part of the project. The ultimate goal of this project was to generate data-driven, clear, and actionable recommendations for wakaNINE. 
 
 ### Stakeholders
 
