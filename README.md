@@ -5,7 +5,7 @@
    - A survey to gather measurable data
    - expert interviews to understand context behind data
 - Used Excel to analyze over 100 survey responses to understand stakeholders’ needs throughout the specification process
--	Presented research findings and actionable recommendations on increasing influence in the decorative lighting market to CEO
+-	Presented research findings and actionable recommendations on increasing influence in the decorative lighting market to CEO of decorative lighting company
 
 ## Introduction
 WakaNINE is a decorative lighting company based in Austin, TX and they tasked us with conducting primary market research to understand the specification process. The specification process is the steps design firms take to develop concepts, document, analyze and explain decision-making to ensure that the needs and performance requirements of the client are met.
