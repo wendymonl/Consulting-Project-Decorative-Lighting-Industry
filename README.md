@@ -48,7 +48,7 @@ We distributed a survey composed of 18 questions, including free response, ratin
 
 ## 3.2 Using COUNTIF to calculate how many respondents worked in different design roles
 
-- added a column named "Role Category" and manually classified the self-reported "firm and role category" into 8 role classifications - Architect, Senior Architect, Interior Designer, Lighting Designer, Senior Interior Designer, Senior Lighting Designer, Sales, and Other
+- added a column named "Role Category" and classified the self-reported "firm and role category" into 8 role classifications - Architect, Senior Architect, Interior Designer, Lighting Designer, Senior Interior Designer, Senior Lighting Designer, Sales, and Other
   ![image](https://user-images.githubusercontent.com/47668478/148504913-6cf2f77a-1c59-4ad1-9b6f-08a0d49669af.png)
 - Then I calculated frequency of respondents in each role category with the COUNTIF formula
   - For example, to count the number of Architects, the following sytax was used: =countif('Form Responses-Copy'!E:E,"Architect") 
