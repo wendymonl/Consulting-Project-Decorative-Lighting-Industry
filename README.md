@@ -1,5 +1,5 @@
 # Consulting-Class-Project-Decorative-Lighting-Industry
-##Summary
+## Summary
 
 - Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in commercial building projects. Methods were:
    - A survey to gather measurable data
@@ -107,8 +107,8 @@ I made a diverging stacked bar chart in Excel to vizualize the attributes from m
 
 ## 5. Share: Present Findings and Recommendations to Stakeholders
 
-Our team presented the project deliverables to John Cook, CEO of WakaNINE, over Zoom. The short presentation included a summary of our teams methodology, analysis, and recommmendations for wakaNINE. Please note that in this repository I only included work that I produced independently. Feel free to take a look at our teams slides for further details on this project. 
-[Final Presentation Slides](https://www.canva.com/design/DAEcyhbapHI/Lg2MQVS7oFezn0rUrqRqHw/view?utm_content=DAEcyhbapHI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+Our team presented the project deliverables to John Cook, CEO of WakaNINE, over Zoom. The short presentation included a summary of our teams methodology, analysis, and recommmendations for wakaNINE. In this repository, I only included work that I produced independently. Feel free to take a look at our slides on Canva for further details on this project. 
+[Specification Team Final Presentation Slides](https://www.canva.com/design/DAEcyhbapHI/Lg2MQVS7oFezn0rUrqRqHw/view?utm_content=DAEcyhbapHI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 ## 6. Act: Next Steps
 - With the help of our primary data collection, analysis, and recommendations, wakaNINE can make data-driven decisions for increasing success throughout the Specification Process. 
