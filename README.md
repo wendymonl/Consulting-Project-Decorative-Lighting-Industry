@@ -1,7 +1,7 @@
 # Consulting-Class-Project-Decorative-Lighting-Industry
 ## Summary
 
-- Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in commercial building projects. Methods were:
+- Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in commercial building design projects. Methods were:
    - A survey to gather measurable data
    - expert interviews to understand context behind data
 - Used Excel to analyze over 100 survey responses to understand stakeholders’ needs throughout the specification process
