@@ -1,6 +1,6 @@
 # Consulting-Class-Project-Decorative-Lighting-Industry
 ## Summary
-This is a market analysis project I did for class credit, where I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my individual contributions to the project. The ultimate goal of this project was to generate data-driven, clear, and actionable recommendations for increasing influence among industry stakeholders. 
+This is a market analysis project I did for class credit, where I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my independent contributions to the project. The ultimate goal of this project was to generate data-driven, clear, and actionable recommendations for increasing influence among industry stakeholders. 
 
 - Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in commercial building design projects. Methods were:
    - secondary research of the specification process to understand best-practices and steps of the process
