@@ -68,14 +68,16 @@ We distributed a survey composed of 18 questions, including free response, ratin
 
 ### 4.1 Report on Survey Sample Representation
 ![Survey Sample Representation](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/65ac5d8269de885fcea83437b3ede9bec03700d1/survey%20representation.png)
+
 Our survey results are not a random sample of the population of interest because they were all volunteers for this survey. Interior designers were the most represented in our survey sample, making up over half of our responses. The next most represented roles were lighting designers, making up about 15% of our responses. Architects and sales people made up 11% and 6% of our responses respectively. The “Other” category  includes project managers, property developers, marketing specialists, controls engineers, and electrical engineers. Another 6% of the respondents did not specify their role in the specification process, though some of them stated that they were principals in their firm (but did not specify the name of their firm)
-  Most of the survey respondents had not specified a wakaNINE product before, so we know the survey sample has many potential new relationships for wakaNINE.  
+  Most of the survey respondents had not specified a wakaNINE product before, so we know the survey sample has many potential new relationships for the company.  
 ![Survey Sample Representation](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/0db3535033bdff51ff327e768fd9fcb4d36c144f/Have%20you%20specified%20a%20wakaNINE%20product%20in%20the%20past.png.jpg)
 
 ### 4.2 Decision-Making in the Specification Process
 
 #### Most Important Attributes for Selecting A Lighting Feature for a project
 ![Importance of Each Attribute](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/8b9be138b80b6e562119a206e4e1021b8eb5a6d6/clustered%20column%20graphs-%20ratings%20of%20attributes.png)
+  
   From the plot above we can tell that 
 - **Client Requests** and **Production/Ship** times were rated as the **most important attributes** 
 - **Having specified fixtures on prior projects** and **Product Company's Mission** are were rated as less important overall
@@ -118,3 +120,4 @@ Our team presented the project deliverables to John Cook, CEO of WakaNINE, over 
 - Third-party datasets can be combined with the primary data collected over the course of this project to strategically implement a data-driven approach to marketing wakaNINEs products. For example, using publicly available decorative lighting sales data to make predictions on future trends in the market.
 
 ### Peer Feedback for me on this project:
+https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/9da98e922220d2f2ab6681467cf439f6d6a5996c/Team%20and%20Professor%20Feedback%20and%20Thank%20you%20's%20(landscape).pdf
