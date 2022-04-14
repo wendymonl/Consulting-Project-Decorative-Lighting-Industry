@@ -3,8 +3,8 @@
 This is a market analysis project I did for class credit, where I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my individual contributions to the project. The ultimate goal of this project was to generate data-driven, clear, and actionable recommendations for increasing influence among industry stakeholders. 
 
 - Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in commercial building design projects. Methods were:
-   - secoondary research of the specification process to understand best-practices and steps of the process
-   - A survey to investigate customer decision process
+   - secondary research of the specification process to understand best-practices and steps of the process
+   - An email survey campaign to investigate customer decision process
    - subbject-matter interviews to understand context behind data
 - Used Excel to analyze over 100 survey responses to understand stakeholders’ needs throughout the specification process
 -	Presented research findings and actionable recommendations on increasing influence in the decorative lighting market to CEO of decorative lighting company
@@ -14,7 +14,7 @@ WakaNINE is a decorative lighting company based in Austin, TX and they tasked us
 
 ### Stakeholders
 
-- CEO of wakaNINE John Cook  
+- CEO of wakaNINE, John Cook
 - wakaNINE Marketing Team
 
 
