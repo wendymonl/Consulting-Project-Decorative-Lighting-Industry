@@ -1,15 +1,16 @@
 # Consulting-Class-Project-Decorative-Lighting-Industry
 ## Summary
+This is a market analysis project I did for class credit, where I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my individual contributions to the project. The ultimate goal of this project was to generate data-driven, clear, and actionable recommendations for increasing influence among industry stakeholders. 
 
 - Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in commercial building design projects. Methods were:
-   - A survey to gather measurable data
-   - expert interviews to understand context behind data
+   - secoondary research of the specification process to understand best-practices and steps of the process
+   - A survey to investigate customer decision process
+   - subbject-matter interviews to understand context behind data
 - Used Excel to analyze over 100 survey responses to understand stakeholders’ needs throughout the specification process
 -	Presented research findings and actionable recommendations on increasing influence in the decorative lighting market to CEO of decorative lighting company
 
 ## Introduction
-WakaNINE is a decorative lighting company based in Austin, TX and they tasked us with conducting primary market research to understand the specification process. The specification process is the steps design firms take to develop concepts, document, analyze and explain decision-making to ensure that the needs and performance requirements of the client are met.
-This is a consulting project I did for class credit, where I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, but this respository is meant to document only my part of the project. The ultimate goal of this project was to generate data-driven, clear, and actionable recommendations for wakaNINE. 
+WakaNINE is a decorative lighting company based in Austin, TX and they tasked us with conducting primary market research to understand the specification process. The specification process is the steps design firms take to develop concepts, document, analyze and explain decision-making to ensure that the needs and performance requirements of the client are met. I have not included anyones name or any personal information in this repository. 
 
 ### Stakeholders
 
