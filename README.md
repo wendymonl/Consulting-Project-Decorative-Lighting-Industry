@@ -120,4 +120,4 @@ Our team presented the project deliverables to John Cook, CEO of WakaNINE, over 
 - Third-party datasets can be combined with the primary data collected over the course of this project to strategically implement a data-driven approach to marketing wakaNINEs products. For example, using publicly available decorative lighting sales data to make predictions on future trends in the market.
 
 ### Peer Feedback for me on this project:
-https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/9da98e922220d2f2ab6681467cf439f6d6a5996c/Team%20and%20Professor%20Feedback%20and%20Thank%20you%20's%20(landscape).pdf
+(https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/bc51ca1fb0777334ede84c74de5bf73ed64cbcca/Specification_Project_Peer_Feedback.png)
