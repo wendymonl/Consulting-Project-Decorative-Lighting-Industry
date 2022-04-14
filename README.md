@@ -100,19 +100,21 @@ I made a diverging stacked bar chart in Excel to vizualize the attributes from m
 
   This information should be easily available online for quick access to designers. The website could require designers to register their email to access these files. That way wakaNINE could get more designers signed up to their newsletter. 
   
- **Limitations of this recommendation**: 
+ ***Limitations of this recommendation***: 
    The information that lighting specifiers seek is not always easy for decorative lighting manufacturers to provide. For example, providing IES files for all the different variations of their fixtures would be difficult since even changing the paint finish would affect the photometric output. To produce these files, a company has to run photometric tests of every variation of their fixtures themselves or hire an independent lab. 
   
 - **Make website searchable by technical specifications** like driver type, lumen output, color temperature, and mounting details. In interviews, designers reported that they search for decorative lighting that will fit their existing plans, so helping them easily find lighting that matches their specific needs will make easier and faster for them to put wakaNINE's products on the specification sheet.
 
-- **Target Property Developers directly through social media ads** Design Firm clients are the most important decision-makers in the specification process (as noted in Section 4.2) If they like wakaNINE's products, they will ask the designers they hire to include them in their project. 
+- **Target property developers directly through social media ads** Design Firm clients are the most important decision-makers in the specification process (as noted in Section 4.2) If they like wakaNINE's products, they will ask the designers they hire to include them in their project. 
 
 ## 5. Share: Present Findings and Recommendations to Stakeholders
 
-Our team presented the project deliverables to John Cook, CEO of WakaNINE, over Zoom. The short presentation included a summary of our teams methodology, analysis, and recommmendations for wakaNINE. In this repository, I only included work that I produced independently. Feel free to take a look at our slides on Canva for further details on this project. 
+Our team presented the project deliverables to John Cook, CEO of WakaNINE, over Zoom. The short presentation included a summary of our teams methodology, analysis, and recommmendations for wakaNINE. In this repository, I only included work that I produced independently, but feel free to take a look at our slides on Canva for further details on this project. I loved working with a team because we all brought different backgrounds and areas of expertise to our analysis. I'm proud of the way our presentation came together visually, as you can see in the canva slides.
 [Specification Team Final Presentation Slides](https://www.canva.com/design/DAEcyhbapHI/Lg2MQVS7oFezn0rUrqRqHw/view?utm_content=DAEcyhbapHI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 ## 6. Act: Next Steps
 - With the help of our primary data collection, analysis, and recommendations, wakaNINE can make data-driven decisions for increasing success throughout the Specification Process. 
 - The creation of some of the technical files requested by designers is expensive, so feassibility of providing these files is up to the financial team to decide.
 - Third-party datasets can be combined with the primary data collected over the course of this project to strategically implement a data-driven approach to marketing wakaNINEs products. For example, using publicly available decorative lighting sales data to make predictions on future trends in the market.
+
+### Peer Feedback for me on this project:
