@@ -1,6 +1,6 @@
 # Consulting-Class-Project-Decorative-Lighting-Industry
 ## Summary
-This is a market analysis project I did for class credit, where I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my independent contributions to the project. The ultimate goal of this project was to generate data-driven, clear, and actionable recommendations for increasing influence among industry stakeholders. 
+For my capstone project to obtain my B.A. in Human Dimensions of Organizatins, I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my independent contributions to the project. The ultimate goal of this project was to generate data-driven, clear, and actionable recommendations for increasing influence among industry stakeholders. 
 
 - Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in commercial building design projects. Methods were:
    - secondary research of the specification process to understand best-practices and steps of the process
@@ -120,4 +120,5 @@ Our team presented the project deliverables to John Cook, CEO of WakaNINE, over 
 - Third-party datasets can be combined with the primary data collected over the course of this project to strategically implement a data-driven approach to marketing wakaNINEs products. For example, using publicly available decorative lighting sales data to make predictions on future trends in the market.
 
 ### Peer Feedback for me on this project:
+I enjoyed collaborating with fellow HDO seniors on this project! Three of my team members went on to become HR professionals upon graduation, one is doing sales for Facebook, and one went on to Harvard Law. Personally, I'm hoping to work in at a small company as a backend developer or data engineer. I was lucky to be on a team with talented and dependable group facilitators, communicators, and project managers. 
 ![My Professor sent me feedback from my peers on this project](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/bc51ca1fb0777334ede84c74de5bf73ed64cbcca/Specification_Project_Peer_Feedback.png)
