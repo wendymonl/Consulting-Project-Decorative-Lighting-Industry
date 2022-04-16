@@ -102,10 +102,10 @@ With this diverging stacked bar vizualization, it is much easier for the audienc
 
   This information should be easily available online for quick access to designers. The website could require designers to register their email to access these files. That way wakaNINE could get more designers signed up to their newsletter. 
   
-#### ***Limitations of this recommendation***: 
-   The information that lighting specifiers seek is not always easy for decorative lighting manufacturers to provide. For example, providing IES files for all the different variations of their fixtures would be difficult since even changing the paint finish would affect the photometric output. To produce these files, a company has to run photometric tests of every variation of their fixtures themselves or hire an independent lab. 
+- ***Limitations of this recommendation***: 
+The information that lighting specifiers seek is not always easy for decorative lighting manufacturers to provide. For example, providing IES files for all the   different variations of their fixtures would be difficult since even changing the paint finish would affect the photometric output. To produce these files, a company has to run photometric tests of every variation of their fixtures themselves or hire an independent lab. 
    
-### Actionable Recommendations
+#### Actionable Recommendations
 - **Make website searchable by technical specifications** like driver type, lumen output, color temperature, and mounting details. In interviews, designers reported that they search for decorative lighting that will fit their existing plans, so helping them easily find lighting that matches their specific needs will make easier and faster for them to put wakaNINE's products on the specification sheet.
 
 - **Target property developers directly through social media ads** Design Firm clients are the most important decision-makers in the specification process (as noted in Section 4.2) If they like wakaNINE's products, they will ask the designers they hire to include them in their project. 
