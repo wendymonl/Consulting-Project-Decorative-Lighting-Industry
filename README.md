@@ -122,4 +122,4 @@ Our team presented the project deliverables to John Cook, CEO of WakaNINE, over 
 
 ### Peer Feedback for me on this project:
 I enjoyed collaborating with fellow HDO seniors on this project! Three of my team members went on to become HR professionals upon graduation, one is doing sales for Facebook, and one went on to Harvard Law. Personally, seeking a job at a small company as a backend developer or data engineer. For this capstone project, I felt lucky collaborate with a team of talented and dependable group facilitators, communicators, and project managers. 
-[My Professor emailed me feedback from my peers on this project](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/bc51ca1fb0777334ede84c74de5bf73ed64cbcca/Specification_Project_Peer_Feedback.png)
+![My Professor emailed me feedback from my peers on this project](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/bc51ca1fb0777334ede84c74de5bf73ed64cbcca/Specification_Project_Peer_Feedback.png)
