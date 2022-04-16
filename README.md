@@ -1,13 +1,13 @@
 # Consulting-Class-Project-Decorative-Lighting-Industry
 ## Summary
-For my capstone project to obtain my B.A. in Human Dimensions of Organizatins, I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my independent contributions to the project. The ultimate goal of this project was to generate data-driven, clear, and actionable recommendations for increasing influence among industry stakeholders. 
+For my capstone project to obtain my B.A. in Human Dimensions of Organizatins, I implemented the 6 steps of the data analysis process to understand the specification process. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my independent contributions to the project. The ultimate goal of this project was to generate data-driven and actionable recommendations for increasing influence among industry stakeholders. 
 
-- Conducted primary research to understand key deliverables and decision-making considerations through different stages of the specification process in commercial building design projects. Methods were:
-   - secondary research of the specification process to understand best-practices and steps of the process
+- Conducted primary research to understand key deliverables and decision-making considerations of customers through different stages of the specification process in commercial building design projects. Methods were:
+   - secondary research on the specification process to understand best-practices and steps of the process
    - An email survey campaign to investigate customer decision process
    - subbject-matter interviews to understand context behind data
-- Used Excel to analyze over 100 survey responses to understand stakeholders’ needs throughout the specification process
--	Presented research findings and actionable recommendations on increasing influence in the decorative lighting market to CEO of decorative lighting company
+- Used Excel to clean and analyze survey responses from over 100 individual customers and create data visualizations
+- Presented data-driven insights and actionable recommendations on increasing influence in the decorative lighting market to the CEO 
 
 ## Introduction
 WakaNINE is a decorative lighting company based in Austin, TX and they tasked us with conducting primary market research to understand the specification process. The specification process is the steps design firms take to develop concepts, document, analyze and explain decision-making to ensure that the needs and performance requirements of the client are met. I have not included anyones name or any personal information in this repository. 
@@ -37,9 +37,9 @@ The main goal of this project was to help develop a data-driven strategy for inc
 We distributed a survey composed of 18 questions, including free response, rating, and multiple choice questions. We recieved 106 responses in 4 days and saved the responses as a Google Sheet. We conducted a total of 9 Zoom interviews with professionals in the design industry with the goal of gaining context on the specification process before analyzing our survey data. 
 
 
-## 3. Process
+## 3. Process and Clean Data Contained in a Spreadsheet
  
-- First, I imported the Google Sheet into Excel, which was my tool of choice for this small dataset.
+- First, I imported the Google Sheet containing survey responses into Excel, which was my tool of choice since this is a small dataset.
 - made a copy of the survey response sheet (where all survey responses are organized in rows by name of participant and columns are each survey question) to work with and  backing up the original 
 - checked for spelling errors and corrected spelling mistakes
 
@@ -82,12 +82,12 @@ Our survey results are not a random sample of the population of interest because
 - **Client Requests** and **Production/Ship** times were rated as the **most important attributes** 
 - **Having specified fixtures on prior projects** and **Product Company's Mission** are were rated as less important overall
 
-I made a diverging stacked bar chart in Excel to vizualize the attributes from most to least important
+I then made a diverging stacked bar chart  in Excel to better vizualize the attributes from most to least important
 ![Plot of Attributes](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/981e78f010d44881a8a645825c20e881a5ca44c2/Plot%20of%20Ranking%20Counts%20with%20legend%202.jpg)
 
-  With this vizualization it is much easier for the audience to notice the most important and least important attributes that designers consider when selecting a lighting feature.
+With this diverging stacked bar vizualization, it is much easier for the audience to notice the most important and least important attributes that customers consider when selecting a lighting feature.
 
-### Which Assets are used in the various Design Stages?
+#### Which Assets are used in the various Design Stages?
 ![Assets Used through the process](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/0db3535033bdff51ff327e768fd9fcb4d36c144f/Assets%20used%20through%20different%20phases.png)
 
 - The most used assets throughout the whole process are the specification sheet and budget pricing
@@ -121,4 +121,4 @@ Our team presented the project deliverables to John Cook, CEO of WakaNINE, over 
 
 ### Peer Feedback for me on this project:
 I enjoyed collaborating with fellow HDO seniors on this project! Three of my team members went on to become HR professionals upon graduation, one is doing sales for Facebook, and one went on to Harvard Law. Personally, seeking a job at a small company as a backend developer or data engineer. For this capstone project, I felt lucky collaborate with a team of talented and dependable group facilitators, communicators, and project managers. 
-![My Professor sent me feedback from my peers on this project](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/bc51ca1fb0777334ede84c74de5bf73ed64cbcca/Specification_Project_Peer_Feedback.png)
+[My Professor emailed me feedback from my peers on this project](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/bc51ca1fb0777334ede84c74de5bf73ed64cbcca/Specification_Project_Peer_Feedback.png)
