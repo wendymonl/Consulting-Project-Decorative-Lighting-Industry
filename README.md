@@ -26,7 +26,7 @@ The main goal of this project was to help develop a data-driven strategy for inc
 - current software used by designers to model 3D spaces for clients
 
 #### Stakeholders in the Specification Process and their needs
-
+Using Microsoft PowerPoint, I created the chart below to visualize the stakeholders in our projcet.
 ![Specification Decision-Makers](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/1e7e91e71027aa2e3166c1147bdcbb695e1bdc10/specification%20stakeholders%20needs%20graphic.png)
 **These categories of design professionals are the target population for our survey.**
 
