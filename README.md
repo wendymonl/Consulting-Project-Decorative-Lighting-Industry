@@ -1,6 +1,6 @@
 # Survey-Analysis-Class-Project-Decorative-Lighting-Industry
 ## Summary
-For my capstone project to obtain my B.A. in Human Dimensions of Organizatins, I implemented the 6 steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act to deliver insights to our client, Austin-based decorative lighting distributor wakaNINE. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my independent contributions to the project. The ultimate goal of this project was to generate data-driven and actionable recommendations for increasing influence among industry stakeholders. 
+For my capstone project to obtain my B.A. in Human Dimensions of Organizatins, I implemented the 6 steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act to deliver insights to our class client, Austin-based decorative lighting distributor wakaNINE. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my independent contributions to the project. The ultimate goal of this project was to generate data-driven and actionable recommendations for increasing influence among industry stakeholders. 
 
 - Conducted primary research to understand key deliverables and decision-making considerations of customers through different stages of the specification process in commercial building design projects. Methods were:
    - secondary research on the specification process to understand best-practices and steps of the process
@@ -10,7 +10,7 @@ For my capstone project to obtain my B.A. in Human Dimensions of Organizatins, I
 - Presented data-driven insights and actionable recommendations on increasing influence in the decorative lighting market to the CEO 
 
 ## Introduction
-WakaNINE is a decorative lighting company based in Austin, TX and they tasked us with conducting primary market research to understand the specification process. The specification process is the steps design firms take to develop concepts, document, analyze and explain decision-making to ensure that the needs and performance requirements of the client are met. I have not included anyones name or any personal information in this repository. 
+WakaNINE is a decorative lighting company based in Austin, TX and they tasked us with conducting primary market research to understand the specification process.The specification process is the steps design firms take to develop concepts, document, analyze and explain decision-making to ensure that the needs and performance requirements of the client are met. I have not included anyones name or any personal information in this repository. 
 
 ### Stakeholders
 
