@@ -1,4 +1,4 @@
-# Consulting-Class-Project-Decorative-Lighting-Industry
+# Survey-Analysis-Class-Project-Decorative-Lighting-Industry
 ## Summary
 For my capstone project to obtain my B.A. in Human Dimensions of Organizatins, I implemented the 6 steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act to deliver insights to our client, Austin-based decorative lighting distributor wakaNINE. This was a team project where I collaborated with 5 classmates, and this respository is meant to document only my independent contributions to the project. The ultimate goal of this project was to generate data-driven and actionable recommendations for increasing influence among industry stakeholders. 
 
@@ -82,7 +82,7 @@ Our survey results are not a random sample of the population of interest because
 - **Client Requests** and **Production/Ship** times were rated as the **most important attributes** 
 - **Having specified fixtures on prior projects** and **Product Company's Mission** are were rated as less important overall
 
-I then made a diverging stacked bar chart  in Excel to better vizualize the attributes from most to least important
+I researched ways of presenting survey response questions in ranked order, and found a nice method called a [Diverging Stacked Bar Chart](https://www.datarevelations.com/rethinkingdivergent/). Below is the chart I created to better vizualize the attributes from most to least important
 ![Plot of Attributes](https://github.com/wendymonl/Consulting-Project-Decorative-Lighting-Industry/blob/981e78f010d44881a8a645825c20e881a5ca44c2/Plot%20of%20Ranking%20Counts%20with%20legend%202.jpg)
 
 With this diverging stacked bar vizualization, it is much easier for the audience to notice the most important and least important attributes that customers consider when selecting a lighting feature.
