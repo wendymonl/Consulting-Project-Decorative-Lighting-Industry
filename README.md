@@ -34,7 +34,7 @@ Using Microsoft PowerPoint, I created the chart below to visualize the stakehold
 ## 2. Prepare
 
 ### Data Collection with Primary Research
-We distributed a survey composed of 18 questions, including free response, rating, and multiple choice questions. We recieved 106 responses in 4 days and saved the responses as a Google Sheet. We conducted a total of 9 Zoom interviews with professionals in the design industry with the goal of gaining context on the specification process before analyzing our survey data. 
+We distributed a survey composed of 18 questions, including free response, rating, and multiple choice questions. We recieved 106 responses in 4 days and saved the responses as a Google Sheet. We conducted a total of 9 Zoom interviews with professionals in the design industry with the goal of gaining context on the specification process before analyzing our survey data. I personally conducted 3 subject-matter expert interviews with a lighting designer, an architect, and an interior designer.
 
 
 ## 3. Process and Clean Data Contained in a Spreadsheet
@@ -49,10 +49,10 @@ We distributed a survey composed of 18 questions, including free response, ratin
 
 ## 3.2 Using COUNTIF to calculate how many respondents worked in different design roles
 
-- added a column named "Role Category" and classified the self-reported "firm and role category" into 8 role classifications - Architect, Senior Architect, Interior Designer, Lighting Designer, Senior Interior Designer, Senior Lighting Designer, Sales, and Other
+- Normalizing data: I added a column named "Role Category" and classified the self-reported "firm and role category" into 8 role classifications - Architect, Senior Architect, Interior Designer, Lighting Designer, Senior Interior Designer, Senior Lighting Designer, Sales, and Other
   ![image](https://user-images.githubusercontent.com/47668478/148504913-6cf2f77a-1c59-4ad1-9b6f-08a0d49669af.png)
 - Then I calculated frequency of respondents in each role category with the COUNTIF formula
-  - For example, to count the number of Architects, the following sytax was used: =countif('Form Responses-Copy'!E:E,"Architect") 
+   - For example, to count the number of Architects, I used the following sytax: =countif('Form Responses-Copy'!E:E,"Architect") 
 
 ## 3.3 Delimiting  by Commas and Creating a new Sheet for non-multiple choice answers
 - split responses to "What could lighting manufacturers improve to make your role in specifying fixtures easier?" using the Data tab in Excel to deliminate by comma
